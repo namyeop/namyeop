@@ -1,7 +1,7 @@
 Hi 👋 My name is Nam Yeop Lee
 =============================
 
-Product Manager, also Full Stack Developer
+Product Manager, Full Stack Developer, also Certified Investment Manger of Korea
 --------------------
 
 **My Journey in Finance** 
