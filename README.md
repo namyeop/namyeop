@@ -29,6 +29,9 @@ Product Manager, also Full Stack Developer
 *   🌍  I'm based in Seoul, South Korea
 *   ✉️  You can contact me at [lq1fr5mjh@mozmail.com](mailto:lq1fr5mjh@mozmail.com)
 *   🚀  I'm currently working on [BPLUS, Inc](http://benefitplus.kr)
+*   🤝  I'm open to collaborating on financial services like Payment Processing, Buy Now Pay Later service, and Revenue Based Financing.
+
+
 
 ### Skills 
 
