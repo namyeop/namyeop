@@ -4,28 +4,6 @@ Hi 👋 My name is Nam Yeop Lee
 Product Manager, Full Stack Developer, also Certified Investment Manger of Korea
 --------------------
 
-**My Journey in Finance** 
-- I've been fortunate enough to gain experience in investment banking and the evolving field of online investments, like P2P Lending. This journey has taught me a lot about various financial systems, including ledgers and accounts. 
-
-**Exploring Web Development with PHP/Laravel** 
-1. In 2022, I transitioned to web development, focusing on launching online investment services. It's been a challenging but rewarding path.
-2. I've had the opportunity to work on ledger systems and APIs for investments and loans.
-3. Using Laravel Livewire and the TALL Stack, I've tried to create user-friendly interfaces, constantly learning along the way.
-
-**Data Analysis and Machine Learning with Python** 
-- Python has been a great tool for me to learn about data analysis and experiment with machine learning frameworks.
-
-**Cloud Native** 
-- I've had the chance to develop skills in building Cloud Native systems and CI/CD pipelines using Kubernetes, and I'm always looking to improve.
-
-**Experiences in New Business Development** 
-1. I've been preparing for new roles in the trust business sector, a new and exciting challenge.
-2. I've contributed to introducing new P2P financial services, focusing on team building and efficient use of resources.
-3. I've had the humbling experience of leading development teams, where I've learned as much from my team as I hope they've learned from me.
-     
-**Blending Financial Knowledge with Development Experience** 
-- I've been able to take on various roles, from project management to development, always aiming to bring a thoughtful perspective from my experiences in the financial industry.
-
 *   🌍  I'm based in Seoul, South Korea
 *   ✉️  You can contact me at [lq1fr5mjh@mozmail.com](mailto:lq1fr5mjh@mozmail.com)
 *   🚀  I'm currently working on [BPLUS, Inc](http://benefitplus.kr)
