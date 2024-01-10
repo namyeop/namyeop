@@ -1,7 +1,7 @@
 Hi 👋 My name is Nam Yeop Lee
 =============================
 
-Product Manager, Full Stack Developer, also Certified Investment Manger of South Korea
+Product Manager and Full Stack Developer, also a Certified Investment Manger of South Korea
 --------------------
 
 *   🌍  I'm based in Seoul, South Korea
