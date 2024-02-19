@@ -1,4 +1,4 @@
-Hi 👋 My name is Nam Yeop Lee
+Hi 👋 My name is Noam Yeop Lee
 =============================
 
 Product Manager and Full Stack Developer, also a Certified Investment Manger of South Korea
